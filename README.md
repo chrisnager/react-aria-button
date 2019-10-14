@@ -1,6 +1,6 @@
 # React ARIA: button role
 
-Accessible button for React for when using an HTML `button` tag is not an option.
+Complete ARIA button built in React, for use when an HTML `button` is not an option.
 
 ## Installation
 
