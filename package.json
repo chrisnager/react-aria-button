@@ -2,15 +2,26 @@
   "name": "react-aria-button",
   "version": "1.0.0",
   "description": "Complete ARIA button built in React",
-  "main": "index.js",
+  "keywords": [
+    "react",
+    "aria",
+    "button",
+    "role",
+    "accessibility",
+    "a11y"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "git@github.com:chrisnager/react-aria-button.git",
   "author": "chrisnager <cnager@gmail.com>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "react": "^16.10.2"
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "prepublishOnly": "yarn build"
   },
   "devDependencies": {
+    "react": "^16.10.2",
     "typescript": "^3.6.4"
   }
 }

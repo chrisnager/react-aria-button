@@ -1,4 +1,4 @@
-# React ARIA: button role
+# React ARIA: button
 
 Complete ARIA button built in React, for use when an HTML `button` is not an option.
 
