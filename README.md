@@ -19,9 +19,9 @@ npm install react-aria-button
 ## Usage
 
 ```js
-import button from 'react-aria-button'
+import Button from 'react-aria-button'
 
-export default () => <button onClick={() => {}}>Press</button>
+export default () => <Button onClick={() => {}}>Press</Button>
 ```
 
 ## Resources
