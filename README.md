@@ -1,4 +1,4 @@
-# React ARIA: button
+# React ARIA button
 
 Complete ARIA button built in React, for use when an HTML `button` is not an option.
 
@@ -10,7 +10,7 @@ Complete ARIA button built in React, for use when an HTML `button` is not an opt
 yarn add react-aria-button
 ```
 
-# npm
+### npm
 
 ```shell
 npm install react-aria-button
@@ -19,9 +19,9 @@ npm install react-aria-button
 ## Usage
 
 ```js
-import button from 'react-aria-button';
+import button from 'react-aria-button'
 
-export default () => <button onClick={() => {}}>Press</button>;
+export default () => <button onClick={() => {}}>Press</button>
 ```
 
 ## Resources
