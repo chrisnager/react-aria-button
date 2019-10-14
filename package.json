@@ -1,0 +1,16 @@
+{
+  "name": "react-aria-button",
+  "version": "1.0.0",
+  "description": "Complete ARIA button built in React",
+  "main": "index.js",
+  "repository": "git@github.com:chrisnager/react-aria-button.git",
+  "author": "chrisnager <cnager@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.10.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
